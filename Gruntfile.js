@@ -35,3 +35,5 @@
 // BUILD MODULE
 // ============
 // @require   : assemble
+
+// Note: To import project metadata into the Grunt config.
