@@ -31,3 +31,7 @@
 // main module.
 // @require   : grunt
 // @require   : grunt-cli
+
+// BUILD MODULE
+// ============
+// @require   : assemble
