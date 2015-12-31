@@ -46,3 +46,10 @@
 // ====================================
 // @method    : grunt.loadNpmTasks(pluginName)
 // @method    : grunt.registerTask(task-name)
+
+// Grunt Task(s):------------------------------------------------------
+// 1. Task for "Linter" - HTML, SCSS, CSS, CoffeeScript and JavaScript,
+// 2. Task for "Minifier" - HTML and CSS,
+// 3. Task for "clean files and folders",
+// 4. Task for "Assemble": Default, and
+// 5. Task for "Travis CI", using ".travis.yml" from root.
