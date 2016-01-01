@@ -1,2 +1,3 @@
 Directory Structure for Content Delivery Network (CDN) of Sequømics Corporation.
 ================================================================================
+Base URL: http://static.sequomics.com/
