@@ -3,3 +3,4 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 
 ### Assets Path:
 1. [root](http://static.sequomics.com/assets/) ```http://static.sequomics.com/assets/```
+2. [icon](http://static.sequomics.com/assets/favicon.ico) ```http://static.sequomics.com/assets/favicon.ico```
