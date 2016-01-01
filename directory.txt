@@ -1,0 +1,2 @@
+Directory Structure for Content Delivery Network (CDN) of Sequømics Corporation.
+================================================================================
