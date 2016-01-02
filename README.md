@@ -5,3 +5,4 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 1. [root](http://static.sequomics.com/assets/) ```http://static.sequomics.com/assets/```
 2. [icon](http://static.sequomics.com/assets/favicon.ico) ```http://static.sequomics.com/assets/favicon.ico```
 3. [font](http://static.sequomics.com/assets/font/) ```http://static.sequomics.com/assets/font/```
+4. [imgs](http://static.sequomics.com/assets/imgs/) ```http://static.sequomics.com/assets/imgs/```
