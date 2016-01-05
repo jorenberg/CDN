@@ -8,3 +8,7 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 4. [imgs](http://static.sequomics.com/assets/imgs/) ```http://static.sequomics.com/assets/imgs/```
 5. [libs](http://static.sequomics.com/assets/libs/) ```http://static.sequomics.com/assets/libs/```
 6. [apis](http://static.sequomics.com/assets/apis/) ```http://static.sequomics.com/assets/apis/```
+
+### Build & Development:
+1. Run `grunt` for building, and
+2. `grunt serve` for preview the CDN®.
