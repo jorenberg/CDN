@@ -12,3 +12,6 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 ### Build & Development:
 1. Run `grunt` for building, and
 2. `grunt serve` for preview the CDN®.
+
+### Testing:
+1. Running `grunt test` will run the unit tests with [karma](http://karma-runner.github.io/0.13/index.html).
