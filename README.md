@@ -16,3 +16,8 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 ### Testing:
 1. Running `grunt test` will run the unit tests with [karma](http://karma-runner.github.io/0.13/index.html).
 2. Running `grunt testapi` will run the unit tests for API's with [karma](http://karma-runner.github.io/0.13/index.html).
+
+### Thanks
+<b>Prabhat Kumar</b>, Creator of ```CDN®``` and their [assets](https://github.com/sequomics/CDN/tree/master/assets).
+
+HomePage: http://prabhatkumar.org/ and https://github.com/iamprabhat
