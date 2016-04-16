@@ -21,3 +21,5 @@ Content Delivery Network (CDN) of [Sequømics Corporation](http://sequomics.com/
 <b>Prabhat Kumar</b>, Creator of ```CDN®``` and their [assets](https://github.com/sequomics/CDN/tree/master/assets).
 
 HomePage: http://prabhatkumar.org/ and https://github.com/iamprabhat
+
+<b>Note:</b>- Explicitly declared only to use CDN®, within the company, organisation, and it's open source projects. Do Not to use outside - Strongly Restricted.
